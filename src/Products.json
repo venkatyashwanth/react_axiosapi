@@ -1,0 +1,13 @@
+
+[
+    {"id":1,"item":"Camera","description":"Canon EOS 1500D 24.1 Digital SLR Camera (Black) with EF S18-55 is II Lens","image":"Images/camera.jpg"},
+    {"id":2,"item":"Earphones","description":"Boat Airdopes 121V2 Bluetooth Truly Wireless in Ear Earbuds with Upto 14 hours","image":"Images/earphone.jpg"},
+    {"id":3,"item":"Echo Dot","description":"Echo Dot (3rd Gen) – New and improved smart speaker with Alexa (Black)","image":"Images/echo_dot.jpg"},
+    {"id":4,"item":"Hard Disk","description":"Western Digital WD Elements USB 3.0 1TB Portable External Hard Drive","image":"Images/harddisk.jpg"},
+    {"id":5,"item":"Ipad","description":"2021 Apple 10.2-inch (25.91 cm) iPad with A13 Bionic chip (Wi-Fi, 64GB)","image":"Images/ipad.jpg"},
+    {"id":5,"item":"Keyboard","description":"Logitech K480 Wireless Multi-Device Keyboard for Windows, Wireless","image":"Images/keyboard_bs.jpg"},
+    {"id":5,"item":"Kindle","description":"Kindle (10th Gen), 6 Display with Built-in Light, WiFi (Black), Adjustable front light lets you","image":"Images/kindle.jpg"},
+    {"id":5,"item":"Laptop","description":"Boat Airdopes 121V2 Bluetooth Truly Wireless in Ear Earbuds with Upto 14 hours","image":"Images/laptop.jpg"},
+    {"id":5,"item":"Smart Watch","description":"Boat Airdopes 121V2 Bluetooth Truly Wireless in Ear Earbuds with Upto 14 hours","image":"Images/smartwatch.jpg"},
+    {"id":5,"item":"Television","description":"Boat Airdopes 121V2 Bluetooth Truly Wireless in Ear Earbuds with Upto 14 hours","image":"Images/tv.jpg"}
+]
